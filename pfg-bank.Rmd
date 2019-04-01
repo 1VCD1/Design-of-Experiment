@@ -45,7 +45,7 @@ pre, code, pre code {
   word-wrap: normal;
   background-color: #ffffff;
 }
-</style>
+</style>#
 
 ```{r}
 # load datasets
